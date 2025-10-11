@@ -10,4 +10,8 @@ Pueden hacer lo que quieran...
 
 Este es un mensaje actualizado desde Git Hub
 
+<<<<<<< HEAD
 ## Estos cambios son nuevos desde GitHub
+=======
+## Estos cambios son nuevos desde mi repositorio local
+>>>>>>> 0a4d202 (Readme.md: Local actualizado)
