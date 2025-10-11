@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 
 Este es un mensaje actualizado desde Git Hub
 
-## Estos cambios son nuevos
+## Estos cambios son nuevos desde GitHub
